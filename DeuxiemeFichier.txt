@@ -1,2 +1,2 @@
 Deuxieme fichier branch 1
->>>>>>> branchecommit
+
